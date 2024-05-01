@@ -1,1 +1,31 @@
 GET http://localhost:5192/games
+
+###
+GET http://localhost:5192/games/4
+
+
+###
+POST http://localhost:5192/games
+content-Type: application/json
+
+{
+    "name": "FIFA",
+    "genre": "Sports",
+    "price": 19.99,
+    "releaseDate": "2021-09-01"
+}
+
+###
+PUT http://localhost:5192/games/4
+content-Type: application/json
+
+{
+    "name": "PES",
+    "genre": "Sports",
+    "price": 29.99,
+    "releaseDate": "2021-09-01"
+}
+
+
+###
+DELETE  http://localhost:5192/games/2
