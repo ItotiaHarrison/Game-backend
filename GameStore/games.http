@@ -9,7 +9,7 @@ POST http://localhost:5192/games
 content-Type: application/json
 
 {
-    "name": "FIFA",
+    "name": "FIFAFIFAFIFAFIFAFIFAFIFAFIFAFIFAvvvvFIFAFIFAFIFAFIFAFIFA",
     "genre": "Sports",
     "price": 19.99,
     "releaseDate": "2021-09-01"
