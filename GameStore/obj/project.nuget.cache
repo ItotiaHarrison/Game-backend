@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nYIoZJmdaP1kq9/g31tbOCFkXRuhVBler1sM3vBvPOLAIeMtItjvOPngva0gxwA12JXatlAjk+IQdj5lMeWBag==",
+  "dgSpecHash": "wZaxq7McHyxCgLqa3eoGAZvu5vcUS7ZAs3gAvkfcbMkfJJ/9uub95g3bD6FIRqqPAfx3tgmNkVer8az5PooAtA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Projects\\learning-cnet\\GameStore\\GameStore.csproj",
+  "projectFilePath": "c:\\Users\\ADMIN\\OneDrive\\Desktop\\Projects\\learning-cnet\\GameStore\\GameStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.4\\microsoft.data.sqlite.core.8.0.4.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.4\\microsoft.entityframeworkcore.8.0.4.nupkg.sha512",
