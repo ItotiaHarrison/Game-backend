@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\ADMIN\\OneDrive\\Desktop\\Projects\\learning-cnet\\GameStore\\GameStore.csproj": {}
+    "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Projects\\learning-cnet\\Gamestore\\GameStore.csproj": {}
   },
   "projects": {
-    "c:\\Users\\ADMIN\\OneDrive\\Desktop\\Projects\\learning-cnet\\GameStore\\GameStore.csproj": {
+    "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Projects\\learning-cnet\\Gamestore\\GameStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ADMIN\\OneDrive\\Desktop\\Projects\\learning-cnet\\GameStore\\GameStore.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Projects\\learning-cnet\\Gamestore\\GameStore.csproj",
         "projectName": "GameStore",
-        "projectPath": "c:\\Users\\ADMIN\\OneDrive\\Desktop\\Projects\\learning-cnet\\GameStore\\GameStore.csproj",
+        "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Projects\\learning-cnet\\Gamestore\\GameStore.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ADMIN\\OneDrive\\Desktop\\Projects\\learning-cnet\\GameStore\\obj\\",
+        "outputPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Projects\\learning-cnet\\Gamestore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,12 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[8.0.4, )"
