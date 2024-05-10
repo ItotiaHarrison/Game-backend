@@ -9,9 +9,9 @@ POST http://localhost:5192/games
 content-Type: application/json
 
 {
-    "name": "Konami",
-    "genreId":1,
-    "price": 19.99,
+    "name": "Final Fantasy",
+    "genreId":2,
+    "price": 59.99,
     "releaseDate": "2021-09-01"
 }
 
