@@ -1,4 +1,5 @@
-﻿namespace GameStore.Entities;
+﻿
+namespace GameStore.Entities;
 
 public class Game
 {

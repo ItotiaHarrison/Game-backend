@@ -1,7 +1,7 @@
 GET http://localhost:5192/games
 
 ###
-GET http://localhost:5192/games/4
+GET http://localhost:5192/games/2
 
 
 ###
@@ -16,12 +16,12 @@ content-Type: application/json
 }
 
 ###
-PUT http://localhost:5192/games/5
+PUT http://localhost:5192/games/2
 content-Type: application/json
 
 {
-    "name": "PES",
-    "genre": "Sports",
+    "name": "PES Konami",
+    "genreId": 1,
     "price": 29.99,
     "releaseDate": "2021-09-01"
 }
