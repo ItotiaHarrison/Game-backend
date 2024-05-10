@@ -9,8 +9,8 @@ POST http://localhost:5192/games
 content-Type: application/json
 
 {
-    "name": "FIFAFIFAFIFAFIFAFIFAFIFAFIFAFIFAvvvvFIFAFIFAFIFAFIFAFIFA",
-    "genre": "Sports",
+    "name": "Konami",
+    "genreId":1,
     "price": 19.99,
     "releaseDate": "2021-09-01"
 }
